@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/youtube-clone/static/js/main.dc80e535.chunk.js",
-    "main.js.map": "/youtube-clone/static/js/main.dc80e535.chunk.js.map",
+    "main.js": "/youtube-clone/static/js/main.0b07234d.chunk.js",
+    "main.js.map": "/youtube-clone/static/js/main.0b07234d.chunk.js.map",
     "runtime-main.js": "/youtube-clone/static/js/runtime-main.e6f3d219.js",
     "runtime-main.js.map": "/youtube-clone/static/js/runtime-main.e6f3d219.js.map",
     "static/js/2.aa790bbb.chunk.js": "/youtube-clone/static/js/2.aa790bbb.chunk.js",
@@ -9,11 +9,18 @@
     "static/js/3.04a571c6.chunk.js": "/youtube-clone/static/js/3.04a571c6.chunk.js",
     "static/js/3.04a571c6.chunk.js.map": "/youtube-clone/static/js/3.04a571c6.chunk.js.map",
     "index.html": "/youtube-clone/index.html",
-    "static/js/2.aa790bbb.chunk.js.LICENSE.txt": "/youtube-clone/static/js/2.aa790bbb.chunk.js.LICENSE.txt"
+    "static/js/2.aa790bbb.chunk.js.LICENSE.txt": "/youtube-clone/static/js/2.aa790bbb.chunk.js.LICENSE.txt",
+    "static/media/avatarphoto.437ea2c0.png": "/youtube-clone/static/media/avatarphoto.437ea2c0.png",
+    "static/media/branco.9e3178e9.png": "/youtube-clone/static/media/branco.9e3178e9.png",
+    "static/media/preto.f974c09a.png": "/youtube-clone/static/media/preto.f974c09a.png",
+    "static/media/thumb1.f291e11d.png": "/youtube-clone/static/media/thumb1.f291e11d.png",
+    "static/media/thumb2.be4f02f4.png": "/youtube-clone/static/media/thumb2.be4f02f4.png",
+    "static/media/thumb3.308d8b13.png": "/youtube-clone/static/media/thumb3.308d8b13.png",
+    "static/media/thumb4.7f6e700e.png": "/youtube-clone/static/media/thumb4.7f6e700e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e6f3d219.js",
     "static/js/2.aa790bbb.chunk.js",
-    "static/js/main.dc80e535.chunk.js"
+    "static/js/main.0b07234d.chunk.js"
   ]
 }
