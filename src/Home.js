@@ -7,7 +7,9 @@ import {
   IconButton,
   useTheme, Switch
 } from '@material-ui/core'
-
+import branco from './images/branco.png'
+import preto from './images/preto.png'
+import avatarphoto from './images/avatarphoto.png'
 import MenuIcone from '@material-ui/icons/Menu';
 import VideoCall from '@material-ui/icons/VideoCall';
 import AppsIcon from '@material-ui/icons/Apps';
@@ -33,7 +35,7 @@ function Home({ darkMode, setDarkMode }) {
           <IconButton edge="start" className={classes.menuIcon} aria-label="menu">
             <MenuIcone />
           </IconButton>
-          <img src={theme.palette.type === 'dark' ? "/images/branco.png" : "/images/preto.png"} alt="logo-yt" className={classes.logo} />
+          <img src={theme.palette.type === 'dark' ? branco : preto} alt="logo-yt" className={classes.logo} />
           <div className={classes.space} />
           <div className={classes.search}>
             <div className={classes.searchIcon}>
@@ -61,7 +63,7 @@ function Home({ darkMode, setDarkMode }) {
           <IconButton className={classes.icons}>
             <NotificationsIcon />
           </IconButton>
-          <Avatar alt="Remy Sharp" src="/images/avatar.png" />
+          <Avatar alt="Remy Sharp" src={avatarphoto} />
         </Toolbar>
       </AppBar>
       <Lateral />
