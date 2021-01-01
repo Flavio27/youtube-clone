@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Flavio27/youtube-clone/static/js/main.dc80e535.chunk.js",
+    "main.js.map": "/Flavio27/youtube-clone/static/js/main.dc80e535.chunk.js.map",
+    "runtime-main.js": "/Flavio27/youtube-clone/static/js/runtime-main.0bdc6a6f.js",
+    "runtime-main.js.map": "/Flavio27/youtube-clone/static/js/runtime-main.0bdc6a6f.js.map",
+    "static/js/2.aa790bbb.chunk.js": "/Flavio27/youtube-clone/static/js/2.aa790bbb.chunk.js",
+    "static/js/2.aa790bbb.chunk.js.map": "/Flavio27/youtube-clone/static/js/2.aa790bbb.chunk.js.map",
+    "static/js/3.04a571c6.chunk.js": "/Flavio27/youtube-clone/static/js/3.04a571c6.chunk.js",
+    "static/js/3.04a571c6.chunk.js.map": "/Flavio27/youtube-clone/static/js/3.04a571c6.chunk.js.map",
+    "index.html": "/Flavio27/youtube-clone/index.html",
+    "static/js/2.aa790bbb.chunk.js.LICENSE.txt": "/Flavio27/youtube-clone/static/js/2.aa790bbb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bdc6a6f.js",
+    "static/js/2.aa790bbb.chunk.js",
+    "static/js/main.dc80e535.chunk.js"
+  ]
+}
